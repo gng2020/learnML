@@ -1,4 +1,3 @@
-# Data Cleaning:
 Here are my thoughts on the Kaggle Titanic dataset. For context, the columns/features are: PassengerId, Pclass, 
 Name, Sex, Age, SibSp (# of siblings / spouses aboard), Parch (# of parents/children aboard), Ticket (Number), Fare (amoung paid), Cabin (number), (Port of) Embarked
 
